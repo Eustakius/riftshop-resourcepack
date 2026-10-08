@@ -1,0 +1,20 @@
+{
+  "phrase": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "returnbydeath:rbd/phrase",
+        "stream": false
+      }
+    ]
+  },
+  "wail": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "returnbydeath:rbd/wail",
+        "stream": false
+      }
+    ]
+  }
+}
