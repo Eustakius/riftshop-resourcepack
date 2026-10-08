@@ -12,4 +12,4 @@ Merged with the production **Return by Death** v1 sound & visual assets (`assets
 
 ## Build Details
 - Format: `88` (Minecraft 1.21.4+ / Paper 26.x)
-- SHA-1 Checksum: `1befa34119a2a53527f7fde603059cde11ec60d3`
+- SHA-1 Checksum: `336b8b1dee5446309640bbabff62c46bccca5ff2`
